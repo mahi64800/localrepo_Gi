@@ -1,0 +1,4 @@
+/* Example of applying red color to all paragraphs */
+p {
+  color: red;
+}
